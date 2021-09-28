@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sebsage
-- 👀 I’m interested in Django web development, AI and machine learning with python, Date science with pyhton.
-- 🌱 I’m currently learning web development with python Django framework.
+- 👋 Hi, I’m Sebastian
+- 👀 I’m interested in Django web development, Data science with pyhton,AI and machine learning with python.
+- 🌱 I’m currently learning web development with Django python web development framework.
 - 💞️ I’m looking to collaborate on web development projects with Django.
-- 📫 How to reach me ...
+- 📫 How to reach me :
+- Email: sebsion8@gmail.com
+- Whatsapp: +233 559037977
 
 <!---
 sebsage/sebsage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
