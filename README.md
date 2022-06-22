@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akaxoxo Sebastian, an intermediate python programmer
-- 👀 I’m interested in,Python programming, web development with Django (python web development framework),AI and machine learning with python.
+- 👀 I’m interested in,Python programming, web development with Django (python web development framework),AI and machine learning with TensorFlow.
 - 🌱 I’m currently learning web development with Django.
 - 💞️ I’m looking to collaborate on web development projects with Django.
 - 📫 How to reach me :
