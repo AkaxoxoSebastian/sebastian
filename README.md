@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Akaxoxo Sebastian, a self-taught Python programmer, I am prepared to work as a Python developer at the entry level. I developed a few Python projects              utilizing the Django framework.
+- 👋 Hi, I’m Akaxoxo Sebastian, a python programmer with interests in data science, artificial intelligence (AI), machine and deep learning, robotics, computer vision, IoT, and web development.
 
-- 👀 I’m interested in python programing, data science, artificial intelligence, robotics, and backend web development utilizing Django Framework.
+- 👀 I’m interested in data science, artificial intelligence, robotics , computer vision and backend web development utilizing Django Framework. I also have knowledge in microcontroller programming.
 
-- 🌱 I'm currently learning TensorFlow to become a Deep Learning Engineer and also skilled at programming microcontroller devices and electronics. If not the finest, I           can use the Arduino IDE to develop effective and efficient code to complete the task at hand.
+- 🌱 I worked on variety of projects and still working hard to expand my limited knowledge and skills.
 
 - 💞️ I’m looking to collaborate on any of the above mentioned interest areas.
 - 📫 How to reach me :
